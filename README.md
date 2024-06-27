@@ -33,7 +33,8 @@ This project is a Cricket Tournament Management System developed in Java using A
 
 ### Installation and Usage
 
-**1. Set Up Database:**
+**1. Set Up Database**
+
 **2. Building and Running the Application:**
 * Open the project in Apache NetBeans.
 * Ensure all dependencies are configured correctly.
